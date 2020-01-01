@@ -5,6 +5,7 @@
 [Bb]uilds/
 /codename-waldlaeufer/Assets/*
 !/codename-waldlaeufer/Assets/++GAME++
+!/codename-waldlaeufer/Assets/UnityExample
 !/codename-waldlaeufer/Assets/*.meta
 
 # Visual Studio cache directory
